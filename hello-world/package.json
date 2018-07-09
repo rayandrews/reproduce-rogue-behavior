@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@roguejs/app": "^0.3.5",
-    "@roguejs/cli": "^0.3.1",
+    "@roguejs/app": "^0.4.0",
+    "@roguejs/cli": "^0.4.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1"
